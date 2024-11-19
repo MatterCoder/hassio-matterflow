@@ -16,16 +16,16 @@
             <img src="https://img.shields.io/badge/Slack-channel-red?logo=slack">
         </a>
     </div>
-    <h1>Home Assistant Add-on: IoT Data Workflow Manager</h1>
+    <h1>Home Assistant Add-on: Matter Data Pipeline</h1>
 </div>
 
 ## Overview
 
-The IoT Data Workflow Manager is a powerful Home Assistant add-on that simplifies working with data from **Matter-enabled IoT devices**. It seamlessly integrates with your Home Assistant setup to:
+Matterflow is a powerful Home Assistant add-on that simplifies working with data from **Matter-enabled IoT devices**. With Matterflow, you can **Transform** and **Stream** IoT Data to Cloud and AI Applications. It seamlessly integrates with your Home Assistant setup to:
 
 - Automatically **receive and process IoT data**.
 - Transform and model data for use in various formats like **CSV** or **JSON**.
-- Send processed data to the cloud for **AI applications** or store it locally for further analysis.
+- Send processed data to the **Cloud** and **AI applications** or store it locally for further analysis.
 
 This add-on is ideal for developers, data scientists, and IoT enthusiasts looking to unlock the full potential of their smart devices.
 
