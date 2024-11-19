@@ -1,6 +1,7 @@
 <div align="center">
     <a href="https://github.com/MatterCoder/Matterflow">
         <img width="150" height="150" src="Matterflow.png">
+        <div style="display: flex;">Matterflow</div>
     </a>
     <br>
     <br>
