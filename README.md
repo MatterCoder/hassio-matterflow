@@ -56,7 +56,7 @@ In Home Assistant, have the Matter integration installed.
 [https://github.com/MatterCoder/addons-matterflow](https://github.com/MatterCoder/addons-matterflow)
 
 Click **Add → Close**, or click the button below to add the repository directly:  
-[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMattercode%2Faddons-matterflow)
+[![Add Repository](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2FMattercoder%2Faddons-matterflow)
 
 3. Select the add-on and click **Install**.
 
